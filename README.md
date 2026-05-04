@@ -1,2 +1,2 @@
-# ai-automation-journey
-Learning AI automation systems step by step
+Public log of my AI automation build journey.
+Day 1: foundation set.
